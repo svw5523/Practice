@@ -1,3 +1,3 @@
 # Practice
 # R Studio Practice
-### Zsh shell practice
+### Bash shell scripting practice
